@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: About
+title: Обо мне
 ---
 В сети зовут Ernela, разработчица NeoMovies, активная сидерша на торрент трекерах. Веду свои релизы
 
