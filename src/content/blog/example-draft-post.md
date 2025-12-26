@@ -1,5 +1,6 @@
 ---
 author: Sat Naing
+pubDatetime: 2024-01-01T00:00:00Z
 title: Example Draft Post
 slug: example-draft-post
 featured: false
