@@ -1,10 +1,12 @@
 ---
 author: Iwunply
+pubDatetime: 2025-07-05
 title: ✨ - Минимальная настройка Neovim
 featured: false
 draft: false
 tags:
   - Гайд
+description: Минимальная настройка Neovim
 ---
 Конфиг в ~/.config/nvim/init.lua
 
@@ -26,7 +28,7 @@ tags:
 
 Для импорта файлов надо require(""), Напр: require("config.config") для загрузки файла ~/.config/nvim/lua/config/config.lua
 
-Для биндов надо использовать vim.keymap.set(), Напр: vim.keymap.set("n", "m", ":Sex<CR>", { noremap = true, silent = true }) для бинда :Sex на m
+Для биндов надо использовать vim.keymap.set(), Напр: vim.keymap.set("n", "m", ":Sex", { noremap = true, silent = true }) для бинда :Sex на m
 
 Для установки плагин менеджера Lazy надо добавить в свою конфигурацию
 
