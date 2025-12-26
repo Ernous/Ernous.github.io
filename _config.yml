@@ -1,0 +1,13 @@
+exclude:
+  - src
+  - public
+  - node_modules
+  - vendor
+  - .github
+  - .husky
+  - .vscode
+  - package.json
+  - package-lock.json
+  - astro.config.ts
+  - tsconfig.json
+  - tailwind.config.cjs
